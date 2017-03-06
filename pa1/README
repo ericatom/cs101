@@ -1,0 +1,13 @@
+#-----------------------------------------------------------------------------------------
+# README
+# Erica Tom edtom 
+# pa1
+#-----------------------------------------------------------------------------------------
+
+List.java--------------List ADT using a doubly linked list, Lex.java will use services
+ListClient.java--------Client test for List.java, provided
+Lex.java---------------Client module to alphabetize inputs into an outfile
+Makefile---------------File used to compile and submit java files, altered
+README-----------------List of pa1 files that were submitted
+
+#-----------------------------------------------------------------------------------------
