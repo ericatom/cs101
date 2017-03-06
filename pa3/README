@@ -1,0 +1,16 @@
+#-----------------------------------------------------------------------------------------
+# README
+# Erica Tom edtom 
+# pa3
+#----------------------------------------------------------------------------------------
+
+List.java--------------List ADT using a doubly linked list, Lex.java will use services
+ListTest.java----------Tests functions of the List ADT
+Matrix.java------------Matrix ADT that implements List ADT to perform matrix functions
+MatrixTest.java--------Tests functions of Matrix ADT
+Sparse.java------------Uses infile to manipulate matrices and outputs to file
+Makefile---------------File used to compile and submit java files, altered
+README-----------------List of pa3 files that were submitted
+
+#-----------------------------------------------------------------------------------------
+~                                                                                           
